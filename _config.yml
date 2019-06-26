@@ -22,10 +22,10 @@ defaults:
     layout: page
 permalink: pretty
 theme:
-  name: 'material'
+  name: material
   palette:
-    primary: 'pink'
-    accent: 'white'
+    primary: pink
+    accent: white
   font:
-    text: 'Roboto'
-    code: 'Roboto Mono'
+    text: Roboto
+    code: Roboto Mono
