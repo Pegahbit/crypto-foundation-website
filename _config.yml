@@ -21,5 +21,11 @@ defaults:
   values:
     layout: page
 permalink: pretty
-
-theme: jekyll-theme-cayman
+theme:
+  name: material
+  palette:
+    primary: pink
+    accent: white
+  font:
+    text: Roboto
+    code: Roboto Mono
